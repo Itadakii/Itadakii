@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @Itadakii
 - 👀 I’m interested in Cybersecurity
 - 🌱 I’m currently learning Hacking
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: Gojo Satoru
-- ⚡ Fun fact: NAH I'D WIN
+- 😄 Pronouns : He/Him
+
 
 <!---
 Itadakii/Itadakii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
